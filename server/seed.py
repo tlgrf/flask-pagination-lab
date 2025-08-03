@@ -37,4 +37,4 @@ with app.app_context():
     db.session.add_all(books)
     
     db.session.commit()
-    print("Complete.")
+    print("Complete 😃")
